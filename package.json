@@ -1,0 +1,8 @@
+{
+  "name": "kinosmotr",
+  "private": true,
+  "scripts": {
+    "client": "npm --prefix client run dev",
+    "server": "npm --prefix server start"
+  }
+}
